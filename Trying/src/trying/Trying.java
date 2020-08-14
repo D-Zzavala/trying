@@ -25,40 +25,29 @@ public class Trying {
             switch (op) {
                 case 1: {
                     System.out.println("Add");
+                    mod();
                     break;
                 }
                 case 2: {
                     System.out.println("List");
+                    mod();
                     break;
                 }
                 case 3: {
                     System.out.println("Remove");
+                    mod();
                     break;
                 }
                 case 0:
                     System.out.println("Salir");
+                    mod();
                     break;
             }
         }
     }
-    
-    static void mod(){
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+
+    static void mod() {
+
     }
-    
+
 }
