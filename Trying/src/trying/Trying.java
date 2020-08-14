@@ -26,6 +26,7 @@ public class Trying {
                 case 1: {
                     System.out.println("Add");
                     mod();
+                    System.out.println("NO ME DES ME33eRRGEeeE33");
                     break;
                 }
                 case 2: {
