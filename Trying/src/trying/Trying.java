@@ -43,6 +43,8 @@ public class Trying {
                     System.out.println("Salir");
                     mod();
                     break;
+                default:
+                    System.out.println("saliroinfpox");
             }
         }
     }
